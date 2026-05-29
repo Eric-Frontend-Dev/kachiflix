@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 import { API_KEY, BASE_URL } from "./constants/api";
-import Navbar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import Hero from "./components/Hero";
 import SearchBar from "./components/SearchBar";
 import MovieGrid from "./components/MovieGrid";
