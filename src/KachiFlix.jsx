@@ -133,7 +133,7 @@ export default function KachiFlix() {
           .search-input { font-size: 14px !important; padding-right: 90px !important; }
         }
       `}</style>
-      <Navbar goHome={handleGoHome} goMovies={handleGoMovies} goTrending={handleGoTrending} />
+      <NavBar goHome={handleGoHome} goMovies={handleGoMovies} goTrending={handleGoTrending} />
       
       {hero && !searched && (
         <Hero
