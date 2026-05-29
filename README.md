@@ -21,7 +21,7 @@ A modern movie discovery web app built with React and the OMDB API. Users can se
 4. Open `http://localhost:5173`
 
 ## 🌐 Live Demo
-Coming soon...
+[View Live Site](https://kachiflix.vercel.app)
 
 ## 📸 Screenshot
 Coming soon...
